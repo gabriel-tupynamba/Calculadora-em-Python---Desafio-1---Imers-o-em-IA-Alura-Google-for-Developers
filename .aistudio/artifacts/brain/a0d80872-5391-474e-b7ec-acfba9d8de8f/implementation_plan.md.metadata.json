@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação detalhado para a Calculadora em Python com foco em estudos de desenvolvimento de software. Detalha a arquitetura do motor Python com PEP 8, execução real via Pyodide (WebAssembly), interface dark mode com feedback tátil e gaveta de código fonte comentado.",
+  "updatedAt":  "2026-10-28T04:42:59.860826304Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
